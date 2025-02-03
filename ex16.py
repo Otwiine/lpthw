@@ -1,13 +1,13 @@
 from sys import argv
 
-# Unpack argv 
+# 'Unpacks' argv
 script, filename = argv
 
 print(f"Were going to erase {filename}.")
 print("If you don't want that hit CTRL-C (^C)")
 print("If you do want that, hit RETURN.")
 
-# Ask user for input
+# Placeholder/Promt for user to either break or continue
 input("?")
 
 # Open the file in write mode
