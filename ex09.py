@@ -1,8 +1,10 @@
 # Here's some new strange stuff, remember type it exactly
 
+# Defines the variables 'days' and 'months'
 days = "Mon Tue Wed Thu Fri Sat Sun"
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJun\nJuly"
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJun\nJuly" 
 
+# Displays 'days' and 'months'
 print("Here are the days: ", days)
 print("Here are the months: ", months)
 
