@@ -1,3 +1,4 @@
+# Imports argv from sys module
 from sys import argv
 
 # 'Unpacks' argv
