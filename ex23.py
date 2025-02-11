@@ -21,3 +21,6 @@ def print_line(line, encoding, errors):
 languages = open("languages.txt", encoding="utf-8")
 
 main(languages, input_encoding, error)
+
+# UTF-8 = Unicode Transformation Format 8 bits
+# DBES = Decode Bytes, Encode Strings
