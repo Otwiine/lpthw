@@ -19,13 +19,14 @@ print("------------")
 five = 10 - 2 + 3 - 6
 print(f"This should be five: {five}")
 
+# defines the function 
 def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 1000
     crates = jars / 100
     return jelly_beans, jars, crates
 
-
+# Assigns the value to 'start_point'
 start_point = 10000
 beans, jars, crates = secret_formula(start_point)
 
