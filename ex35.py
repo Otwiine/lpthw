@@ -61,7 +61,7 @@ def dead(why):
     print(why, "Good job!")
     exit(0)
 
-# Print out instruction, get user choice
+# Print out instructions, get user choice
 def start():
     print("You are in a dark room.")
     print("There is a door to your right and left.")
