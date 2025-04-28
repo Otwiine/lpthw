@@ -1,3 +1,0 @@
-This is a Test File for ex20.py
-It has three lines
-Here's the third
