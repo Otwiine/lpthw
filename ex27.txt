@@ -28,13 +28,13 @@ not (True or False) == False
 not (True or True) == False
 
 # != (NOT EQUAL)
-(False != False) == False
-(False != True) == True
-(True != False) == True
-(True != True) == False
+(0 != 0) == False
+(0 != 1) == True
+(1 != 0) == True
+(1 != 1) == False
 
 # == (EQUAL)
-(False == False) == True
-(False == True) == False
-(True == False) == False
-(True == True) == True
+(0 == 0) == True
+(0 == 1) == False
+(1 == 0) == False
+(1 == 1) == True
