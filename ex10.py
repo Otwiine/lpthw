@@ -13,3 +13,9 @@ print(tabby_cat)
 print(persian_cat)
 print(backslash_cat)
 print(fat_cat)
+
+# Using multiple differnt Escape Sequences
+ojo = "\t\"Im OJO\N{White Smiling Face}\", OJO said"
+print(ojo)
+Zed = '\'I\'m your teacher, Zed\',\n Said Zed\bd'
+print(Zed)
