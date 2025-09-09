@@ -2,7 +2,7 @@
 This repository contains my completed exercises and notes as I work through Zed A. Shaw’s Learn Python 3 the Hard Way, a hands-on programming book designed to teach Python from the ground up.
 
 <p align="center">
-  <img src="https://m.media-amazon.com/images/I/4186Q57pLCL._SY445_SX342_.jpg" alt="Book Cover" width="250">
+  <img src="https://m.media-amazon.com/images/I/4186Q57pLCL._SY445_SX342_.jpg" alt="Book Cover" width="350">
 </p>
 
 ![Book Cover](https://m.media-amazon.com/images/I/4186Q57pLCL._SY445_SX342_.jpg)
