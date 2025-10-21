@@ -1,0 +1,9 @@
+Symbol Review
+
+Take time to review:
+
+-Keywords
+-Data Types
+-String Escape Sequences
+-Old Style String Formats (Legacy)
+-Operators
