@@ -1,4 +1,0 @@
-Designing and Debugging
-
-Create your own game 
-Check: https://github.com/Otwiine/OJO-1
